@@ -1,0 +1,14 @@
+get_version.exe
+get_version
+discover_devices.exe
+discover_devices
+discover_services.exe
+discover_services
+test_connect.exe
+test_connect
+sensor_tag_barometer.exe
+sensor_tag_barometer
+sensor_tag_imu.exe
+sensor_tag_imu
+parse_address.exe
+parse_address

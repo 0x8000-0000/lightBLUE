@@ -1,0 +1,6 @@
+echo_all
+echo_all.exe
+test_cond
+test_cond.exe
+echo_plus
+echo_plus.exe

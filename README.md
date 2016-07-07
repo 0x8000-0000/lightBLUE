@@ -21,15 +21,13 @@ Apache License, Version 2.0
 
 Software:
 
-    * serial\_base library
-
     * Developed using GCC compiler on Windows
 
 Hardware:
 
     * STEVAL-IDB003V1 USB dongle running BlueNRG\_VCOM
 
-    * TI CC2560-Launchpad running HostApp
+    * TI CC2650-Launchpad running HostApp
 
 ## References
 

@@ -4,3 +4,5 @@ test_cond
 test_cond.exe
 echo_plus
 echo_plus.exe
+capture
+capture.exe
